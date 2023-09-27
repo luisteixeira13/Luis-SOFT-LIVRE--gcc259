@@ -1,1 +1,25 @@
-# Desenvolvimento-de-SOFT-LIvre
+Este é meu repositorio no GIT, Eis um breve curriculo meu: 
+
+https://drive.google.com/file/d/1rvkLvuwio8azER69Csv8MiLUd_CtDuVn/view?usp=drivesdk
+
+Atualmente estou cursanso o sexto periodo de Sistemas de informação na ufla e essa é a materia de desenvolvimento de sofftware livre.
+
+codigo meramente ilustrativo: 
+
+      public static void main(String[] args) {
+          // Crie um objeto Scanner para ler a entrada do teclado
+          Scanner scanner = new Scanner(System.in);
+          
+          // Solicite ao usuário que digite seu nome
+          System.out.print("Digite seu nome: ");
+          String nome = scanner.nextLine();
+  
+          // Exiba uma mensagem de boas-vindas
+          System.out.println("Bem-vindo, " + nome + "!");
+  
+          // Feche o scanner
+          scanner.close();
+      }
+  
+Segue a seguinte ideia: 
+ Cruzeiro melhor que atlético.
