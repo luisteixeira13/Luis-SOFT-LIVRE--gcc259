@@ -18,5 +18,5 @@ codigo meramente ilustrativo:
           // Feche o scanner
           scanner.close();
       }
-  ![Avatar]([URL_DA_IMAGEM_AQUI)](https://embarcados.com.br/wp-content/uploads/2014/03/imagem-de-destaque-28-850x510.png)https://embarcados.com.br/wp-content/uploads/2014/03/imagem-de-destaque-28-850x510.png
+  ![Avatar]([(https://embarcados.com.br/wp-content/uploads/2014/03/imagem-de-destaque-28-850x510.png)https://embarcados.com.br/wp-content/uploads/2014/03/imagem-de-destaque-28-850x510.png)]
 
